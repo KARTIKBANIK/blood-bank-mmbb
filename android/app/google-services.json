@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "957678946357",
+    "project_id": "mm-blood-bank",
+    "storage_bucket": "mm-blood-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957678946357:android:b85213e912cf2bc219c97c",
+        "android_client_info": {
+          "package_name": "com.mmbb.mmbb_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957678946357-8fq35d7kmck1qmu78t78gmpf9nfsj3pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmbb.mmbb_app",
+            "certificate_hash": "8da164108b2b08f94036c08764203671995c5844"
+          }
+        },
+        {
+          "client_id": "957678946357-ok63q19su186i0qceo7uptj6adgad8qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZbCsa7EW_yHxHzphS_5BN1SOA5aOQNg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957678946357-ok63q19su186i0qceo7uptj6adgad8qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
